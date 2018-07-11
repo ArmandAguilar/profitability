@@ -3,3 +3,7 @@
 env/
 scripts/tokensNotification.py
 scripts/tokensSQL.py
+scripts/tokensTeamWork.py
+scripts/BookEstdoProyectos.ipynb
+scripts/.ipynb_checkpoints/
+.idea/
